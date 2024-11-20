@@ -4,7 +4,7 @@ Documentation    Elementos e ações da tela de Login
 Library    AppiumLibrary
 
 *** Variables ***
-${API_IP}    192.168.0.110
+${API_IP}    192.168.0.102
 
 *** Keywords ***
 Do login
